@@ -4,3 +4,11 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+axum = "0.7.7"
+job_scheduler = "1.2.1"
+reqwest = "0.12.9"
+scraper = "0.21.0"
+serde = "1.0.214"
+sqlx = "0.8.2"
+tokio = "1.41.0"
+yew = "0.21.0"
